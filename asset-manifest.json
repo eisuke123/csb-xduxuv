@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "https://eisuke123.github.io/csb-xduxuv/static/css/main.f29ae65a.chunk.css",
-    "main.js": "https://eisuke123.github.io/csb-xduxuv/static/js/main.0bb2414e.chunk.js",
-    "main.js.map": "https://eisuke123.github.io/csb-xduxuv/static/js/main.0bb2414e.chunk.js.map",
+    "main.js": "https://eisuke123.github.io/csb-xduxuv/static/js/main.15149e06.chunk.js",
+    "main.js.map": "https://eisuke123.github.io/csb-xduxuv/static/js/main.15149e06.chunk.js.map",
     "runtime-main.js": "https://eisuke123.github.io/csb-xduxuv/static/js/runtime-main.7e1ca8f5.js",
     "runtime-main.js.map": "https://eisuke123.github.io/csb-xduxuv/static/js/runtime-main.7e1ca8f5.js.map",
-    "static/js/2.29e3bd31.chunk.js": "https://eisuke123.github.io/csb-xduxuv/static/js/2.29e3bd31.chunk.js",
-    "static/js/2.29e3bd31.chunk.js.map": "https://eisuke123.github.io/csb-xduxuv/static/js/2.29e3bd31.chunk.js.map",
+    "static/js/2.bcf289c5.chunk.js": "https://eisuke123.github.io/csb-xduxuv/static/js/2.bcf289c5.chunk.js",
+    "static/js/2.bcf289c5.chunk.js.map": "https://eisuke123.github.io/csb-xduxuv/static/js/2.bcf289c5.chunk.js.map",
     "index.html": "https://eisuke123.github.io/csb-xduxuv/index.html",
     "static/css/main.f29ae65a.chunk.css.map": "https://eisuke123.github.io/csb-xduxuv/static/css/main.f29ae65a.chunk.css.map",
-    "static/js/2.29e3bd31.chunk.js.LICENSE.txt": "https://eisuke123.github.io/csb-xduxuv/static/js/2.29e3bd31.chunk.js.LICENSE.txt"
+    "static/js/2.bcf289c5.chunk.js.LICENSE.txt": "https://eisuke123.github.io/csb-xduxuv/static/js/2.bcf289c5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7e1ca8f5.js",
-    "static/js/2.29e3bd31.chunk.js",
+    "static/js/2.bcf289c5.chunk.js",
     "static/css/main.f29ae65a.chunk.css",
-    "static/js/main.0bb2414e.chunk.js"
+    "static/js/main.15149e06.chunk.js"
   ]
 }
